@@ -30,3 +30,16 @@
   <a href="https://www.linkedin.com/in/kau%C3%A3-araujo-casimiro-453b47260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+## Sobre Mim:
+Meu nome é Kauã Casimiro, tenho 17 anos, certificado no ano de 2023 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Miralda dos Santos Lima (atráves de parceria com o SENAI) em: Editor de Projeto Visual Gráfico, Editor de Animação e Editor de Vídeo.
+
+Certificado no ano de 2022 pelo SENAI em: Programação de Internet, Programação Java, Programação C#, Desenhistas de Página de Web e Informática Básica.
+
+Certificado no ano de 2022 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Santa Úrsula em: Programação de Sistemas, Programação Java, Programação C#, Desenhistas de Página de Web e Formação Social e Humanas. (Certificados em processo de emissão).
+
+Formação FullStack em Programação pelo Programadores do Amanhã em 2024. 
+
+Estudo na Etec ABH no 3° ano com o Curso Técnico de Programação em Jogos Digitais, tive oportunidade de desenvolver habilidades de raciocínio lógico, comunicação e trabalho em equipe. Sou adaptável e flexível para diferentes ambientes, tenho proficiência em trabalhar sozinho e em equipes pequenas, sou determinado e procuro ajudar sempre que possível. Estou aberto para oportunidades e expêriencias no mercado tech.
