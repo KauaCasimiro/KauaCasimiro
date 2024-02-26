@@ -4,8 +4,14 @@
 - 🌱 Estudando no 3° Ano de Programação de Jogos Digitais na ETEC ABH
 - 🌱 Estudando Programação FullStack pela Programadores do Amanhã
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaCasimiro&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCasimiro)](https://github.com/KauaCasimiro/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=KauaCasimiro&show_icons=true&theme=radical">
+  </a>
+  
+  <a href="https://github.com/KauaCasimiro/github-readme-stats">
+     <img algin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCasimiro">
+  </a>
+  
 ##
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
