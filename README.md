@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando no 3° Ano de Programação de Jogos Digitais na ETEC ABH
-- 🌱 Estudando Programação FullStack pela Programadores do Amanhã
+- 🌱 Formado em Programação FullStack pela Programadores do Amanhã
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img algin="center" src="https://github-readme-stats.vercel.app/api?username=KauaCasimiro&show_icons=true&theme=radical">
