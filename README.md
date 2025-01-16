@@ -35,7 +35,7 @@
 ##
 
 ## Sobre Mim:
-Meu nome é Kauã Casimiro, tenho 17 anos, certificado no ano de 2023 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Miralda dos Santos Lima (atráves de parceria com o SENAI) em: Editor de Projeto Visual Gráfico, Editor de Animação e Editor de Vídeo.
+Meu nome é Kauã Casimiro, tenho 18 anos, certificado no ano de 2023 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Miralda dos Santos Lima (atráves de parceria com o SENAI) em: Editor de Projeto Visual Gráfico, Editor de Animação e Editor de Vídeo.
 
 Certificado no ano de 2022 pelo SENAI em: Programação de Internet, Programação Java, Programação C#, Desenhistas de Página de Web e Informática Básica.
 
@@ -43,4 +43,4 @@ Certificado no ano de 2022 pelo Centro Social Nossa Senhora do Bom Parto – Cen
 
 Formação FullStack em Programação pelo Programadores do Amanhã em 2024. 
 
-Estudo na Etec ABH no 3° ano com o Curso Técnico de Programação em Jogos Digitais, tive oportunidade de desenvolver habilidades de raciocínio lógico, comunicação e trabalho em equipe. Sou adaptável e flexível para diferentes ambientes, tenho proficiência em trabalhar sozinho e em equipes pequenas, sou determinado e procuro ajudar sempre que possível. Estou aberto para oportunidades e expêriencias no mercado tech.
+Formado na Etec ABH no Ensino Médio Integrado ao Técnico de Programação em Jogos Digitais, tive oportunidade de desenvolver habilidades de raciocínio lógico, comunicação e trabalho em equipe. Sou adaptável e flexível para diferentes ambientes, tenho proficiência em trabalhar sozinho e em equipes pequenas, sou determinado e procuro ajudar sempre que possível. Estou aberto para oportunidades e expêriencias no mercado tech.
