@@ -36,12 +36,14 @@
 ##
 
 ## Sobre Mim:
-Meu nome é Kauã Casimiro, tenho 18 anos, certificado no ano de 2023 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Miralda dos Santos Lima (atráves de parceria com o SENAI) em: Editor de Projeto Visual Gráfico, Editor de Animação e Editor de Vídeo.
+Meu nome é Kauã Casimiro, tenho 19 anos, estou no 1° semestre de Jogos Digitais na FATEC São Caetano do Sul
 
-Certificado no ano de 2022 pelo SENAI em: Programação de Internet, Programação Java, Programação C#, Desenhistas de Página de Web e Informática Básica.
+Possuo formação FullStack pela instituição Programadores do Amanhã em 2024.
 
-Certificado no ano de 2022 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Santa Úrsula em: Programação de Sistemas, Programação Java, Programação C#, Desenhistas de Página de Web e Formação Social e Humanas. (Certificados em processo de emissão).
+Certificado no ano de 2023 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Miralda dos Santos Lima (atráves de parceria com o SENAI) em: Editor de Projeto Visual Gráfico, Editor de Animação e Editor de Vídeo.
 
-Formação FullStack em Programação pelo Programadores do Amanhã em 2024. 
+Certificado no ano de 2022 pelo SENAI em: Programação de Internet, Programação Java, Programação C#, Desenhistas de Página de Web e Informática Básica (Pacote Office).
 
-Formado na Etec ABH no Ensino Médio Integrado ao Técnico de Programação em Jogos Digitais, tive oportunidade de desenvolver habilidades de raciocínio lógico, comunicação e trabalho em equipe. Sou adaptável e flexível para diferentes ambientes, tenho proficiência em trabalhar sozinho e em equipes pequenas, sou determinado e procuro ajudar sempre que possível. Estou aberto para oportunidades e expêriencias no mercado tech.
+Certificado no ano de 2022 pelo Centro Social Nossa Senhora do Bom Parto – Centro de Capacitação Profissional Santa Úrsula em: Programação de Sistemas, Programação Java, Programação C#, Desenhistas de Página de Web e Formação Social e Humanas.
+
+Formado na Etec ABH no Ensino Médio Integrado ao Técnico de Programação em Jogos Digitais, tive oportunidade de desenvolver habilidades de raciocínio lógico, programação e criação de jogos. Busco a oportunidades e experiências que acrescentem na minha área de estudo.
