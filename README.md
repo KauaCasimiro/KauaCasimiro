@@ -3,7 +3,7 @@
 
 - 🎮 Formado em Programação de Jogos Digitais na ETEC ABH
 - 💻 Formado em Programação FullStack pela Programadores do Amanhã
-- 🎮 1/6 Jogos Digitais na FATEC São Caetano do Sul
+- 🎮 2/6 Jogos Digitais na FATEC São Caetano do Sul
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img algin="center" src="https://github-readme-stats.vercel.app/api?username=KauaCasimiro&show_icons=true&theme=radical">
