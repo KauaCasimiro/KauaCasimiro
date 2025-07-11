@@ -17,7 +17,7 @@
 ##
  <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GML" height="80" width="80" src="file:///C:/Users/kauac/Downloads/Gamemaker--Streamline-Simple-Icons.svg">
+  <img align="center" alt="GML" height="80" width="80" src="https://icons8.com/icon/pzBwti6QHuKh/game-maker">
   <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
