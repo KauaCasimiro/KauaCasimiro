@@ -39,7 +39,7 @@
 ##
 
 ## Sobre Mim:
-Meu nome é Kauã Casimiro, tenho 19 anos, estou no 1° semestre de Jogos Digitais na FATEC São Caetano do Sul
+Meu nome é Kauã Casimiro, tenho 19 anos, estou no 2° semestre de Jogos Digitais na FATEC São Caetano do Sul
 
 Possuo formação FullStack pela instituição Programadores do Amanhã em 2024.
 
