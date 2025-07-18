@@ -20,7 +20,7 @@
    <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="240" height="240" viewBox="0 0 48 48">
 <linearGradient id="qcOiS4vM_NMs0k9n5xePqa_pzBwti6QHuKh_gr1" x1="16.107" x2="45.822" y1="42.189" y2="17.256" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#262626" stop-opacity="0"></stop><stop offset="1" stop-color="#262626" stop-opacity=".8"></stop></linearGradient><path fill="url(#qcOiS4vM_NMs0k9n5xePqa_pzBwti6QHuKh_gr1)" d="M27.997,24H33v12l-9,9V27.997C24,25.79,25.79,24,27.997,24z"></path><linearGradient id="qcOiS4vM_NMs0k9n5xePqb_pzBwti6QHuKh_gr2" x1=".78" x2="36.108" y1=".752" y2="36.08" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#262626" stop-opacity="0"></stop><stop offset="1" stop-color="#262626" stop-opacity=".8"></stop></linearGradient><path fill="url(#qcOiS4vM_NMs0k9n5xePqb_pzBwti6QHuKh_gr2)" d="M24,3L3,24l21,21c0,0,0-7.128,0-12.6L15,24l9-9l9,9h12C45,23.875,24,3,24,3z"></path>
 </svg>
-  <img align="center" alt="GML" height="80" width="80" src="https://icons8.com/icon/pzBwti6QHuKh/game-maker">
+  <img align="center" alt="GML" height="80" width="80" src="https://cdn.simpleicons.org/gamemaker" />
   <img align="center" alt="HTML" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
