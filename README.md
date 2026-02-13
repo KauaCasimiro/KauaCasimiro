@@ -3,7 +3,7 @@
 
 - 🎮 Formado em Programação de Jogos Digitais na ETEC ABH
 - 💻 Formado em Programação FullStack pela Programadores do Amanhã
-- 🎮 2/6 Jogos Digitais na FATEC São Caetano do Sul
+- 🎮 3/6 Jogos Digitais na FATEC São Caetano do Sul
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img algin="center" src="https://github-readme-stats.vercel.app/api?username=KauaCasimiro&show_icons=true&theme=radical">
@@ -39,7 +39,7 @@
 ##
 
 ## Sobre Mim:
-Meu nome é Kauã Casimiro, tenho 19 anos, estou no 2° semestre de Jogos Digitais na FATEC São Caetano do Sul
+Meu nome é Kauã Casimiro, tenho 19 anos, estou no 3° semestre de Jogos Digitais na FATEC São Caetano do Sul
 
 Possuo formação FullStack pela instituição Programadores do Amanhã em 2024.
 
