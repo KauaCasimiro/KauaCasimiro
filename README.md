@@ -5,13 +5,7 @@
 - 💻 Formado em Programação FullStack pela Programadores do Amanhã
 - 🎮 3/6 Jogos Digitais na FATEC São Caetano do Sul
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img algin="center" src="https://github-readme-stats.vercel.app/api?username=KauaCasimiro&show_icons=true&theme=radical">
-  </a>
-  
-  <a href="https://github.com/KauaCasimiro/github-readme-stats">
-     <img algin="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCasimiro">
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KauaCasimiro&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
   
 ##
