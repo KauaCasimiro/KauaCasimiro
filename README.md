@@ -131,7 +131,8 @@ Projeto interrompido antes da apresentação, com base funcional concluída.
 ---
 
 ### 🎓 Humira (TCC)
-🔗 https://github.com/KauaCasimiro/Projeto-TCC  
+🔗 https://github.com/KauaCasimiro/Projeto-TCC
+🎮 https://gx.games/pt-br/games/cb8ud6/humira/
 
 - Primeiro projeto completo  
 - Base em lógica de jogos  
