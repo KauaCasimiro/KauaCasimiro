@@ -39,40 +39,104 @@
   <img height="90" src="https://cdn.simpleicons.org/gamemaker"/>
   <img height="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/libgdx/libgdx-original.svg"/>
   <img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+  <!--<img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>-->
 </p>
 
 - 🎮 GameMaker (GML)  
 - ☕ Java (LibGDX)  
-- ⚙️ C#  
 - 🧠 Lógica de jogo & sistemas  
 - 🎯 Game feel e feedback  
-
+<!--- ⚙️ C#  -->
 ---
 
 ## 🧩 Sobre o Player
 
-Sou o Kauã, tenho 19 anos e estou no **3º semestre de Jogos Digitais na FATEC SCS**.
+Sou estudante de Jogos Digitais na FATEC SCS, com foco em desenvolvimento de jogos 2D e criação de mecânicas simples e bem executadas.
 
-Minha trajetória começou em projetos sociais de programação e evoluiu para o desenvolvimento de jogos, onde encontrei meu foco principal.
-
-Minha experiência com dessenvolvimento de jogos:
-- Desenvolvimento de jogos 2D  
-- Mecânicas simples e bem executadas  
-- Sistemas de feedback e interação  
-- Projetos acadêmicos com abordagem prática  
+Minha trajetória começou em projetos sociais de programação e evoluiu para o desenvolvimento de jogos, onde encontrei meu principal interesse.
 
 ---
 
-## 🏆 Formação & Base
+## 🎮 Projetos
 
-- 🥇 ETEC ABH — Técnico em Jogos Digitais  
-- 🎓 FATEC SCS — Jogos Digitais (em andamento)  
-- 🧩 Centro de Capacitação Santa Úrsula  
-  - Programação de Sistemas  
-  - Base em lógica e desenvolvimento  
+### 🐒 Primate Protocol: Synthetic Rebellion ⭐
+> Projeto solo com foco em gameplay e execução dentro de prazo  
 
-> Outras formações complementares existem, mas meu foco atual está totalmente em desenvolvimento de jogos.
+🔗 https://github.com/KauaCasimiro/Primate-Protocol-Synthetic-Rebellion  
+🎮 https://monkeys-dynamite.itch.io/primate-protocol-synthetic-rebellion  
+
+- Desenvolvido em ~14 dias  
+- Foco em entregar uma experiência jogável e divertida  
+- Aplicação dos aprendizados de projetos anteriores  
+
+🏆 6º lugar geral — 2º lugar em diversão  
+
+---
+
+### 🔮 Fate Sense (em desenvolvimento)
+> Evolução das ideias iniciadas em Helix Link  
+
+🔗 https://github.com/KauaCasimiro/Fate-Sense  
+
+- Projeto de estágio da FATEC  
+- Reaproveitamento de mecânicas anteriores  
+- Foco em transformar o protótipo em jogo completo
+
+---
+
+### 👾 Wild Invaders (em desenvolvimento)
+🔗 https://github.com/KauaCasimiro/Wild-Invaders  
+
+- Java + LibGDX  
+- Foco em arquitetura e organização  
+
+---
+
+## 🧩 Outros Projetos
+
+<details>
+<summary>Ver mais projetos</summary>
+
+<br>
+
+### 🧬 Helix Link (Protótipo)
+> Projeto mobile focado em estrutura e consistência de gameplay  
+
+🔗 https://github.com/KauaCasimiro/Helix-Link  
+
+- Desenvolvimento por cerca de 1 mês  
+- Primeiro projeto mobile  
+- Loop de gameplay completo  
+
+**Contexto:**  
+Projeto interrompido antes da apresentação, com base funcional concluída.  
+
+---
+
+### 🧩 Bit&Byte (Game Jam)
+🔗 https://github.com/KauaCasimiro/Bit-Byte  
+🎮 https://monkeys-dynamite.itch.io/bitbyte-for-8-bit-jam  
+
+- Protótipo em ~10 dias  
+- Mecânica experimental  
+
+---
+
+### 🐷 Monkey Rhythmn - Beat Pigs (Game Jam)
+🎮 https://monkeys-dynamite.itch.io/monkey-rhythmn-beat-pigs  
+
+- Atuação em game design  
+- Jogo de ritmo em equipe  
+
+---
+
+### 🎓 Humira (TCC)
+🔗 https://github.com/KauaCasimiro/Projeto-TCC  
+
+- Primeiro projeto completo  
+- Base em lógica de jogos  
+
+</details>
 
 ---
 
@@ -94,5 +158,3 @@ Minha experiência com dessenvolvimento de jogos:
 > Evoluir como desenvolvedor de jogos, criando experiências cada vez mais sólidas e bem polidas.
 
 ---
-
-
