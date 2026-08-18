@@ -8,7 +8,7 @@
 ## 🚀 Status
 
 - 🎮 Técnico em Programação de Jogos Digitais — ETEC ABH  
-- 🎓 3/6 Jogos Digitais — FATEC São Caetano do Sul  
+- 🎓 4/6 Jogos Digitais — FATEC São Caetano do Sul  
 - 🧩 Início na programação — Centro de Capacitação Santa Úrsula  
 
 ---
