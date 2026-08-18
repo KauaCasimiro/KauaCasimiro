@@ -84,8 +84,9 @@ Minha trajetória começou em projetos sociais de programação e evoluiu para o
 
 ---
 
-### 👾 Wild Invaders (em desenvolvimento)
+### 👾 Wild Invaders
 🔗 https://github.com/KauaCasimiro/Wild-Invaders  
+🎮 https://monkeys-dynamite.itch.io/wild-invaders
 
 - Java + LibGDX  
 - Foco em arquitetura e organização  
